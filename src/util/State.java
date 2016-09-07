@@ -1,0 +1,5 @@
+package util;
+
+public enum State {
+	LOADING, READY, PLAY, DYING, PAUSE, GAMEOVER, COMPLETELEVEL, WIN, START
+}
